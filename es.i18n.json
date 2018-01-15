@@ -1,0 +1,21 @@
+{
+      "now": "Ahora",
+      "meeting_room": "sala de reuniones",
+      "room_available": "sala disponible",
+      "tap_here_to_reserve": "haga click aquí para reservar esta sala por 15 minutos",
+      "insufficient_time_to_reserve": "no hay disponibilidad suficiente para reservar esta sala",
+      "you_can_reserve_this_room_using_outlook": "puede reservar esta sala utilizando Outlook",
+	"available": "Disponible",
+      "occupied": "Ocupada",
+	"reserve": "reservar",
+      "reserving_room": "Creando Reservación",
+	"tap_to_cancel": "Click para cancelar",
+      "reserved_for_15_minutes": "Reservada por 15 minutos",
+      "and": "y",
+      "other": "otro",
+      "others": "otros",
+      "min": "min",
+      "private_appointment": "Reunión Privada",
+      "daysOfWeek": ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"],
+      "months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Setiembre", "Octubre", "Noviembre", "Diciembre"]
+}
