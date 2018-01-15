@@ -24,3 +24,6 @@ Collection of i18n files for the Meeting Room 365 app
 
 ### Polish
 `pl.i18n.json`  Machine translation
+
+### Danish
+`da.i18n.json`  Machine translation
