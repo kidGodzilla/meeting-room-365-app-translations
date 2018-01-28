@@ -10,7 +10,7 @@ Collection of i18n files for the Meeting Room 365 app
 ### German
 `de.i18n.json` Machine translation
 
-### Germain (Austria)
+### German (Austria)
 `at.i18n.json` contributed by Sebastian Frei
 
 ### French
