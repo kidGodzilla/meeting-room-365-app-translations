@@ -9,6 +9,7 @@ Displays can use a translation file by reference by pasting the URL to the file 
 
 `https://cdn.jsdelivr.net/gh/kidGodzilla/meeting-room-365-app-translations@master/pt.i18n.json`
 
+# Languages Available
 
 ### English (Reference file)
 `en.i18n.json` is the English-language reference file for translation.
