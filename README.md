@@ -1,6 +1,15 @@
 # Meeting-room-365-app-translations
 Collection of i18n files for the Meeting Room 365 app
 
+# Usage
+
+Displays can use a translation file by reference by pasting the URL to the file in the i18n field, instead of a translation object.
+
+### Example:
+
+`https://cdn.jsdelivr.net/gh/kidGodzilla/meeting-room-365-app-translations@master/pt.i18n.json`
+
+
 ### English (Reference file)
 `en.i18n.json` is the English-language reference file for translation.
 
