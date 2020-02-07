@@ -43,3 +43,8 @@ Displays can use a translation file by reference by pasting the URL to the file 
 
 ### Portuguese
 `pt.i18n.json` contributed by https://github.com/heliomoreirakk
+
+# Contributing
+
+Please open a pull request or contact support@meetingroom365.com to correct any errors, or make a request.
+
