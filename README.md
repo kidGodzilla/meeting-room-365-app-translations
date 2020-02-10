@@ -1,11 +1,13 @@
 # Meeting-room-365-app-translations
 Collection of i18n files for the Meeting Room 365 app
 
-# Contributing
+# Contributing Translations to Meeting Room 365
 
 We now use POEditor to keep track of internationalization efforts between multiple users, in a single web portal. You can take a look and contribute here: https://poeditor.com/join/project/Z72631KBBH
 
 (We will handle updating the localization files for the product for any incoming contributions, just let us know via support)
+
+Those who wish to open a pull request on this repo with updated localization files are also welcome to do so.
 
 # Usage
 
