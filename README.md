@@ -1,6 +1,12 @@
 # Meeting-room-365-app-translations
 Collection of i18n files for the Meeting Room 365 app
 
+# Contributing
+
+We now use POEditor to keep track of internationalization efforts between multiple users, in a single web portal. You can take a look and contribute here: https://poeditor.com/join/project/Z72631KBBH
+
+(We will handle updating the localization files for the product for any incoming contributions, just let us know via support)
+
 # Usage
 
 Displays can use a translation file by reference by pasting the URL to the file in the i18n field, instead of a translation object.
@@ -45,6 +51,8 @@ Displays can use a translation file by reference by pasting the URL to the file 
 `pt.i18n.json` contributed by https://github.com/heliomoreirakk
 
 # Contributing
+
+We now use POEditor for collaboration. See: https://poeditor.com/join/project/Z72631KBBH
 
 Please open a pull request or contact support@meetingroom365.com to correct any errors, or make a request.
 
