@@ -55,8 +55,11 @@ Displays can use a translation file by reference by pasting the URL to the file 
 ### Traditional Chinese (Taiwan)
 `zh.i18n.json` Professional Translation
 
-### Simplifid Chinese (PRC)
+### Simplified Chinese (PRC)
 `zh2.i18n.json` Professional Translation
+
+### Estonian
+`ee.i18n.json` contributed by Hando Penu (Fujitsu)
 
 
 # Contributing
