@@ -41,7 +41,7 @@ Displays can use a translation file by reference by pasting the URL to the file 
 `it.i18n.json`  Machine translation
 
 ### Polish
-`pl.i18n.json`  Machine translation
+`pl.i18n.json`  Contributed by Adam Sarzynski (stesar.pl)
 
 ### Danish
 `da.i18n.json`  Contributed anonymously
