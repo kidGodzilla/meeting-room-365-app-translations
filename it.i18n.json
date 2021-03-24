@@ -22,6 +22,17 @@
     "m30": "30 minuti",
     "m45": "45 minuti",
     "m60": "60 minuti",
+    
+    "minutes": "minuti",
+    "15minutes": "15 minuti",
+    "30minutes": "30 minuti",
+    "45minutes": "45 minuti",
+    "60minutes": "60 minuti",
+
+    "report_an_issue": "Segnala un problema",
+    "upcoming_schedule": "Programma",
+    "no_upcoming_meetings": "Sala Disponibile",
+    
         "processing": "In elaborazione..",
     "cancelling": "Annullamento..",
         "check_in": "Registrazione",
