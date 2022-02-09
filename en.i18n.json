@@ -35,6 +35,27 @@
   "enter_your_issue_here":"Enter your issue here",
   "message_will_be_sent":"This message will be sent to your IT administrator.",
   "send_message":"Send Message",
-  "daysOfWeek": ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
-  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+  "daysOfWeek": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ]
 }
