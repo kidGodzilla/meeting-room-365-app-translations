@@ -42,6 +42,8 @@
   "reserving_room": "Reserving room",
   "tap_to_cancel": "Tap to cancel",
   "reserved_for_15_minutes": "Reserved for 15 minutes",
+  "reserved_for_n_minutes": "Reserved for {n} minutes",
+  "reserve_for_n_minutes": "Reserve for {n} minutes",
   "reserved": "Reserved",
   "hidden": "Hidden",
   "and": "and",
